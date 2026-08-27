@@ -1,7 +1,7 @@
 #########################################################
 #   zProbe - Scrape And Extract Data From The Web       #
-# 			  Author   - edgerunner0x01                 #
-# 		https://www.github.com/edgerunner0x01           #
+#             Author   - socialcondition                 #
+#       https://www.github.com/socialcondition           #
 #########################################################
 
 from bs4 import BeautifulSoup, Comment

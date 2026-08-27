@@ -54,7 +54,7 @@ class Shell:
  ) .-.  )  / /      ) ,._.'   ) ,-`    ) ,_ .' \\  )  ) '._\\ ) ( ( \\ \\  
 (  ,  ) \\ (  \\     (  '      (  ``-.  (  ' ) \\  ) \\ (  ,   (   `.)/  ) 
  )/    )/  ).'      )/        )..-.(   )/   )/   )/  )/ ._.'      '.(\n
-            https://github.com/edgerunner0x01/Hyperion{Style.RESET_ALL}"""]
+            https://github.com/socialcondition/Hyperion{Style.RESET_ALL}"""]
 
         self.help_message = f"""{Fore.MAGENTA}
 Options:
